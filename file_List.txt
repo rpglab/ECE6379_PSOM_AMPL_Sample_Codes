@@ -1,24 +1,23 @@
  Volume in drive D is DATA
  Volume Serial Number is EAD2-2113
 
- Directory of D:\RPG-Lab_webpage\resources\Codes\ECE6379_PSOM_AMPL_Sample_Codes
+ Directory of D:\RPG-Lab_webpage\resources\Courses\ECE6379_PSOM\AMPL_codes
 
-03/01/2022  04:08 PM    <DIR>          .
-03/01/2022  04:08 PM    <DIR>          ..
-03/01/2022  03:59 PM    <DIR>          00_AMPL_Tutorial_Codes
+03/01/2022  04:10 PM    <DIR>          .
+03/01/2022  04:10 PM    <DIR>          ..
+11/28/2021  02:43 AM    <DIR>          00_AMPL_Tutorial_Codes
 12/09/2021  01:24 AM               635 04_AMPL_LP_example.mod
 12/09/2021  01:23 AM             1,276 08_DP_SCUC.mod
-03/01/2022  03:59 PM    <DIR>          20_DCOPF
-03/01/2022  03:59 PM    <DIR>          21_SCUC
-03/01/2022  03:59 PM    <DIR>          23_24_LMP
-03/01/2022  04:08 PM                 0 file_List.txt
-03/01/2022  04:07 PM             1,531 README.md
-               4 File(s)          3,442 bytes
+11/28/2021  02:39 AM    <DIR>          20_DCOPF
+11/28/2021  02:39 AM    <DIR>          21_SCUC
+11/28/2021  02:31 AM    <DIR>          23_24_LMP
+03/01/2022  04:10 PM                 0 file_List.txt
+               3 File(s)          1,911 bytes
 
- Directory of D:\RPG-Lab_webpage\resources\Codes\ECE6379_PSOM_AMPL_Sample_Codes\00_AMPL_Tutorial_Codes
+ Directory of D:\RPG-Lab_webpage\resources\Courses\ECE6379_PSOM\AMPL_codes\00_AMPL_Tutorial_Codes
 
-03/01/2022  03:59 PM    <DIR>          .
-03/01/2022  03:59 PM    <DIR>          ..
+11/28/2021  02:43 AM    <DIR>          .
+11/28/2021  02:43 AM    <DIR>          ..
 11/28/2021  02:37 AM               524 example_1.mod
 11/28/2021  02:37 AM               422 example_2.mod
 11/28/2021  02:37 AM               427 example_3.mod
@@ -36,10 +35,10 @@
 11/28/2021  02:36 AM               497 example_8.mod
               15 File(s)          5,284 bytes
 
- Directory of D:\RPG-Lab_webpage\resources\Codes\ECE6379_PSOM_AMPL_Sample_Codes\20_DCOPF
+ Directory of D:\RPG-Lab_webpage\resources\Courses\ECE6379_PSOM\AMPL_codes\20_DCOPF
 
-03/01/2022  03:59 PM    <DIR>          .
-03/01/2022  03:59 PM    <DIR>          ..
+11/28/2021  02:39 AM    <DIR>          .
+11/28/2021  02:39 AM    <DIR>          ..
 12/09/2021  01:22 AM             1,591 DCOPF_IC_e1.mod
 12/09/2021  01:22 AM             1,563 DCOPF_IC_e1_M2.mod
 11/08/2021  07:56 PM               341 DCOPF_IC_e1_M2M3_data.txt
@@ -55,19 +54,19 @@
 12/09/2021  01:22 AM             1,313 DCOPF_IC_e5A.mod
               13 File(s)         16,305 bytes
 
- Directory of D:\RPG-Lab_webpage\resources\Codes\ECE6379_PSOM_AMPL_Sample_Codes\21_SCUC
+ Directory of D:\RPG-Lab_webpage\resources\Courses\ECE6379_PSOM\AMPL_codes\21_SCUC
 
-03/01/2022  03:59 PM    <DIR>          .
-03/01/2022  03:59 PM    <DIR>          ..
+11/28/2021  02:39 AM    <DIR>          .
+11/28/2021  02:39 AM    <DIR>          ..
 12/09/2021  01:22 AM             2,501 SCUC_IC_e1.mod
 12/09/2021  01:22 AM             1,673 SCUC_IC_e1_M2.mod
 12/22/2018  11:14 PM               194 SCUC_IC_e1_M2_data.txt
                3 File(s)          4,368 bytes
 
- Directory of D:\RPG-Lab_webpage\resources\Codes\ECE6379_PSOM_AMPL_Sample_Codes\23_24_LMP
+ Directory of D:\RPG-Lab_webpage\resources\Courses\ECE6379_PSOM\AMPL_codes\23_24_LMP
 
-03/01/2022  03:59 PM    <DIR>          .
-03/01/2022  03:59 PM    <DIR>          ..
+11/28/2021  02:31 AM    <DIR>          .
+11/28/2021  02:31 AM    <DIR>          ..
 12/09/2021  01:21 AM             1,044 LMP_IC_e1.mod
 12/09/2021  01:21 AM             1,150 LMP_IC_e2.mod
 12/09/2021  01:21 AM             1,794 LMP_IC_e3.mod
@@ -78,5 +77,5 @@
                7 File(s)         11,768 bytes
 
      Total Files Listed:
-             117 File(s)         92,087 bytes
-             206 Dir(s)  178,685,673,472 bytes free
+              41 File(s)         39,636 bytes
+              14 Dir(s)  178,685,689,856 bytes free
