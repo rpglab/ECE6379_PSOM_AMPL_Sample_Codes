@@ -1,0 +1,20 @@
+
+param: BUS: busLoad :=
+	1   0  
+	2   100  
+	3   0;	
+
+param: GEN:  gen_bus gen_min gen_max  gen_OpCost :=
+	1   1  20  70  10
+	2   3  40  90  20;   # the index is 2 here; but you can change it to 3;
+
+param: BRANCH:  branch_frmbus branch_tobus branch_x branch_rate :=
+	1   1  2  0.1  60 
+	2   1  3  0.1  100
+	3   2  3  0.2  100;
+
+param PTDF:  1  2   3 :=    # bus indices
+   1   0.25   -0.5   0      # for line 1
+   2   0.75   0.5    0      # for line 2
+   3   0.25   0.5    0 ;    # for line 3
+   
